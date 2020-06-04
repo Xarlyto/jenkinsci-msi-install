@@ -1,0 +1,9 @@
+node {
+
+	stage 'inicio'
+		echo 'prueba'
+    
+	stage 'fin'
+		echo '*****'		
+    
+}

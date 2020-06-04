@@ -9,7 +9,7 @@ pipeline {
       }
       stage('msi-install') {
          steps {
-            bat "java -version"
+            bat "install-msi.bat"
          }  
       }
    }

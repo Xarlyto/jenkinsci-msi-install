@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Start') {
          steps {
-            echo 'Hello World'
+            echo 'First Stage'
          }
       }
       stage('msi-install') {

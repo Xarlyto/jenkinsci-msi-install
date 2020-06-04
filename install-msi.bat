@@ -1,0 +1,1 @@
+msiexec /i "putty-0.73-installer.msi"
